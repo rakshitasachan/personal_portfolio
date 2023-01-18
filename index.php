@@ -1,0 +1,353 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+-->
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>My Website a Personal Portfolio </title>
+    <!-- web fonts -->
+    <link href="//fonts.googleapis.com/css?family=Nunito:400,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
+    <!-- //web fonts -->
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="assets/css/style-starter.css">
+  </head>
+  <body>
+
+<section class="w3l-bootstrap-header">
+  <nav class="navbar navbar-expand-lg navbar-light py-lg-3 py-2">
+    <div class="container">
+      <a class="navbar-brand" href="index.php"> My Website</a>
+      <!-- if logo is image enable this   
+    <a class="navbar-brand" href="#index.html">
+        <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+    </a> -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon fa fa-bars"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.php">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.php">About</a>
+          </li>
+          
+         
+        
+          <li class="nav-item">
+            <a class="nav-link" href="contact.php">Contact</a>
+          </li>
+        </ul>
+        
+      </div>
+    </div>
+  </nav>
+</section>
+ <!--  Main banner section -->
+ <section class="w3l-main-banner" id="home">
+  <div class="companies20-content">
+    <div class="companies-wrapper">
+        <div class="item">
+         
+            <div class="slider-info banner-view text-center">
+              <div class="banner-info container">
+                <img src="assets/images/img5.jpg" alt="about image" width="100px" class="img-fluid">
+                <h3 class="banner-text mt-5">Hello, I’m Rakshita Sachan
+                  </h3>
+                  <p class="my-4 mb-5">Computer Science Engineer</p><br>
+               
+              </div>
+            </div>
+          
+        </div>
+    </div>
+  </div>
+</section>
+ <!--  //Main banner section -->
+<section class="w3l-about ">
+<div class="skills-bars py-5">
+ <div class="container py-md-3">
+  <div class="heading text-center mx-auto">
+    <h3 class="head">Welcome To My Site</h3>
+    <p class="my-3 head"> Hi, I m Rakshita Sachan persuing b.tech in computer science branch it's my final year. Now a time I have accuired some special skills on programming like  I am certified by IIT Kanpur on Full stack developer cource and many more skills like I have a basic knowledge of some languages like c++, html ,css, javasacript, bootstrap, core php.</p>
+      
+    </div><br>
+    <h1 class="head"><i>Skills :-</i></h1>
+<div class="row mt-5 pt-3">
+    <div class="col-lg-4 col-md-4 col-sm-6 skills-bar-grids mb-4 pb-2">
+        <h4>HTML5</h4>
+        <div class="progress">
+        <div class="progress-bar progress-bar-striped bg-color" role="progressbar" style="width: 80% ;height:4px;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+      </div>
+    </div>
+</div>
+    <div class="col-lg-4 col-md-4 col-sm-6 skills-bar-grids mb-4 pb-2">
+        <h4>CSS</h4>
+        <div class="progress">
+        <div class="progress-bar progress-bar-striped bg-color" role="progressbar" style="width: 80% ;height:4px;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+      </div>
+    </div>
+</div>
+<div class="col-lg-4  col-md-4 col-sm-6 skills-bar-grids mb-4 pb-2">
+    <h4>BOOTSTRAP</h4>
+    <div class="progress">
+    <div class="progress-bar progress-bar-striped bg-color" role="progressbar" style="width: 60% ;height:4px;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+  </div>
+</div>
+</div>
+<div class="col-lg-4  col-md-4 col-sm-6 skills-bar-grids mb-4 pb-2">
+    <h4>JAVASCRIPT</h4>
+    <div class="progress">
+    <div class="progress-bar progress-bar-striped bg-color" role="progressbar" style="width: 50% ;height:4px;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+  </div>
+</div>
+</div>
+<div class="col-lg-4  col-md-4 col-sm-6 skills-bar-grids mb-4 pb-2">
+    <h4>CORE PHP</h4>
+    <div class="progress">
+    <div class="progress-bar progress-bar-striped bg-color" role="progressbar" style="width: 50% ;height:4px;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+  </div>
+</div>
+</div>
+
+
+ </div>
+ </div>
+</div>
+ </section>
+<section class="w3l-feature-3" id="features">
+	<div class="grid top-bottom">
+		<div class="container">
+			<div class="heading text-center mx-auto">
+                <h3 class="head text-white">Projects</h3>
+          
+              </div>
+			<a href="https://github.com/rakshitasachan/online-bookshelf.github.io"> <div class="middle-section grid-column text-center mt-5 pt-3">
+				<div class="three-grids-columns">
+					<span ><img src="assets\images\img2.jpg" width="100px"></span>
+					<h4>Online Bookstore</h4>
+					<p>Technology used  Html Css Php and MySql</p>
+				</div></a>
+        <a href="https://github.com/rakshitasachan/typing-speed-tester-">
+				<div class="three-grids-columns">
+        <span ><img src="assets\images\img3.png" width="100px"></span>
+					<h4>Typing speed tester</h4>
+					<p>Technology used  Html Css and JavaScript</p>
+					
+				</div></a>
+        <a href="https://github.com/rakshitasachan/temp-convertor.github.io">
+				<div class="three-grids-columns">
+        <span ><img src="assets\images\img4.jpg" width="100px"></span>
+					<h4>Temperature Convertor</h4>
+					<p>Technology used  Html Css and JavaScript </p>
+					
+				</div></a>
+			</div>
+		</div>
+	</div>
+</section>
+<div class="products-4" id="portfolio">
+    <!-- Products4 block -->
+    <div id="products4-block" class="text-center">
+        <div class="container">
+            <div class="heading text-center mx-auto mb-5">
+                <h3 class="head">I Love What I Do </H3>
+              
+               
+              </div>
+              <H3>My Acheivements</h3>
+            <input id="tab2" type="radio" name="tabs">
+            <label class="tabtle" for="tab2">Certificates</label>
+
+            <input id="tab3" type="radio" name="tabs">
+            <label class="tabtle" for="tab3">Internship</label>
+
+
+
+
+            <section id="content2" class="tab-content text-left">
+                <div class="d-grid grid-col-3">
+                    <div class="product">
+                        <a href="assets/images/img7.jpg" data-lightbox="example-set"
+                            data-title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam architecto, ex veritatis">
+                            <figure>
+                                <img src="assets/images/img7.jpg" class="img-responsive" alt="" />
+                            </figure>
+                        </a>
+                        
+                    </div>
+                    <div class="product">
+                        <a href="assets/images/imgs.jpg" data-lightbox="example-set"
+                            data-title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam architecto, ex veritatis">
+                            <figure>
+                                <img src="assets/images/imgs.jpg" class="img-responsive" alt="" />
+                            </figure>
+                        </a>
+                       
+                    </div>
+                    <div class="product">
+                        <a href="assets/images/img9.jpg" data-lightbox="example-set"
+                            data-title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam architecto, ex veritatis">
+                            <figure>
+                                <img src="assets/images/img9.jpg" class="img-responsive" alt="" />
+                            </figure>
+                        </a>
+                       
+                    </div>
+                   
+                    
+                        
+                 
+            </section>
+
+            <section id="content3" class="tab-content text-left">
+            
+                    <div class="product">
+                        <a href="assets/images/img10.jpg" data-lightbox="example-set"
+                            data-title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam architecto, ex veritatis">
+                            <figure>
+                                <center><img src="assets/images/img10.jpg" class="img-responsive" alt="" width="500px"/></center>
+                            </figure>
+                        </a>
+                    </div>
+                    
+                
+            </section>
+
+            <section id="content4" class="tab-content text-left">
+                <div class="d-grid grid-col-3">
+                    <div class="product">
+                        <a href="assets/images/g8.jpg" data-lightbox="example-set"
+                            data-title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam architecto, ex veritatis">
+                            <figure>
+                                <img src="assets/images/g8.jpg" class="img-responsive" alt="" />
+                            </figure>
+                        </a>
+                        
+                    </div>
+                    <div class="product">
+                        <a href="assets/images/g1.jpg" data-lightbox="example-set"
+                            data-title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam architecto, ex veritatis">
+                            <figure>
+                                <img src="assets/images/g1.jpg" class="img-responsive" alt="" />
+                            </figure>
+                        </a>
+                        
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+    <!-- Products4 block -->
+</div>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<script src="assets/js/lightbox-plus-jquery.min.js"></script>
+<section class="services-12" id="experience">
+	<div class="form-12-content">
+		<div class="container">
+			<div class="grid grid-column-2 ">
+				
+			
+					<div class="column2">
+            <h3 class="mb-5">Education</h3>
+            <div class="experience-top">
+              <h5>2023</h5>
+              <h4> Bachelor's degree</h4>
+              <p class="my-3 text-white">Pursuing Bachlor's degree ,Final year.  </p>
+              </div>
+              <div class="experience-top">
+                <h5>2019</h5>
+                <h4>Intermediate</h4>
+                <p class="my-3 text-white">I have completed my high school from Bright way Inter College, Lucknow with 70%.</p>
+                </div>
+                <div class="experience-top">
+                  <h5>2017</h5>
+                  <h4>High school</h4>
+                  <p class="my-3 text-white">I have completed my high school from Bright way Inter College, Lucknow with 85%.</p>
+                  </div>
+					</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+     
++ 
+ <!-- grids block 5 -->
+ <section class="w3l-footer-29-main" id="footer">
+  <div class="footer-29 text-center">
+      <div class="container">
+        
+        <div class="main-social-footer-29">
+                    
+      
+          <a href="https://twitter.com/RakshitaSachan" class="twitter"><span class="fa fa-twitter"></span></a>
+          <a href="https://instagram.com/_r.a.k.s.h.i.i.i_0?igshid=YmMyMTA2M2Y=" class="instagram"><span class="fa fa-instagram"></span></a>
+          <a href="mailto: rakshitasachan@gmail.com" class="google-plus"><span class="fa fa-google-plus"></span></a>
+          <a href="https://www.linkedin.com/in/rakshita-sachan-43b443237/" class="linkedin"><span class="fa fa-linkedin"></span></a>
+  
+  </div>
+   <!-- move top -->
+  <button onclick="topFunction()" id="movetop" title="Go to top">
+              <span class="fa fa-angle-up"></span>
+                 </button>
+                 <script>
+                     // When the user scrolls down 20px from the top of the document, show the button
+                     window.onscroll = function () {
+                         scrollFunction()
+                     };
+              
+                     function scrollFunction() {
+                         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                             document.getElementById("movetop").style.display = "block";
+                         } else {
+                             document.getElementById("movetop").style.display = "none";
+                         }
+                     }
+              
+                     // When the user clicks on the button, scroll to the top of the document
+                     function topFunction() {
+                         document.body.scrollTop = 0;
+                         document.documentElement.scrollTop = 0;
+                     }
+                 </script>
+                 <!-- /move top -->
+</section>
+<!-- // grids block 5 -->
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<!-- //footer-28 block -->
+</section>
+
+<script>
+    $(function () {
+      $('.navbar-toggler').click(function () {
+        $('body').toggleClass('noscroll');
+      })
+    });
+  </script>
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+  </script>
+  
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+  </script>
+
+<!-- Smooth scrolling -->
+
+
+
+</body>
+
+</html>
+<!-- // grids block 5 -->
